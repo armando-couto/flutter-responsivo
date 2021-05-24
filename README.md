@@ -1,6 +1,6 @@
-# exemplo1
+# Exemplo1
 
-A new Flutter application.
+Curso [Responsividade no Flutter | Mobile, Tablet, Web e Desktop](https://www.udemy.com/course/responsividade-flutter/learn/lecture/24762654#overview)
 
 ## Getting Started
 
